@@ -1,4 +1,4 @@
-# was-test
+# aws-test
 
 
 1. Set up an AWS account:
